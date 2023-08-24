@@ -1,0 +1,53 @@
+﻿  BVH.cpp
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(48,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(51,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(65,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(67,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(83,1): warning C4305: “初始化”: 从“double”到“float”截断
+  Camera.cpp
+C:\Users\Administrator\Desktop\PT\PT\PT\Camera.cpp(11,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Camera.cpp(16,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Camera.cpp(41,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Camera.cpp(42,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ImageBuffer.cpp
+C:\Users\Administrator\Desktop\PT\PT\PT\ImageBuffer.cpp(36,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  tinyxml2.cpp
+  main.cpp
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(48,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(51,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(65,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(67,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(83,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\PT\PT\PT\SceneLoader.h(45,16): warning C4305: “初始化”: 从“double”到“float”截断
+  Material.cpp
+C:\Users\Administrator\Desktop\PT\PT\PT\Material.cpp(12,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Material.cpp(195,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Material.cpp(200,30): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Material.cpp(212,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  SceneLoader.cpp
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(48,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(51,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(65,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(67,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(83,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\PT\PT\PT\SceneLoader.h(45,16): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\PT\PT\PT\SceneLoader.cpp(36,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\SceneLoader.cpp(236,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\SceneLoader.cpp(201,8): warning C4101: “aspect”: 未引用的局部变量
+C:\Users\Administrator\Desktop\PT\PT\PT\SceneLoader.cpp(198,7): warning C4101: “dt”: 未引用的局部变量
+C:\Users\Administrator\Desktop\PT\PT\PT\SceneLoader.cpp(279,50): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\PT\PT\PT\SceneLoader.cpp(290,29): warning C4305: “初始化”: 从“double”到“float”截断
+  Triangle.cpp
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(48,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(51,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(65,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(67,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.h(83,1): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.cpp(9,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.cpp(29,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.cpp(42,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.cpp(51,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.cpp(89,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\PT\PT\PT\Triangle.cpp(91,26): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码...
+  PT.vcxproj -> C:\Users\Administrator\Desktop\PT\PT\x64\Debug\PT.exe
